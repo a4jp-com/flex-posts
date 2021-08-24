@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A widget to display posts with thumbnails in various layouts. Fits nicely in any widget area size.
+An open source widget to display posts with thumbnails in various layouts in WordPress. Fits nicely in any widget area size.
 
 == Description ==
 
