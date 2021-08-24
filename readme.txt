@@ -1,5 +1,5 @@
 === Flex Posts - Widget and Gutenberg Block ===
-Contributors: tajam
+Contributors: tajam; Glen Charles Rowell (a4jp.com)
 Donate link: https://tajam.id/
 Tags: category posts, responsive, magazine, news, grid, list, tiles, flexbox, recent posts, latest posts
 Requires at least: 5.2
