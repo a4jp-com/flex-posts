@@ -1,4 +1,4 @@
-=== Flex Posts - Widget and Gutenberg Block ===
+=== Flex Posts Extended - Widget and Gutenberg Block ===
 Contributors: tajam; Glen Charles Rowell (a4jp.com)
 Tags: category posts, responsive, magazine, news, grid, list, tiles, flexbox, recent posts, latest posts
 Requires at least: 5.2
@@ -11,7 +11,7 @@ An open source widget to display posts with thumbnails in various layouts in Wor
 
 == Description ==
 
-Flex Posts is a widget to display posts in various different layouts. It is useful for a news site where you need to display a lot of posts in a page.
+Flex Posts Extended is a widget to display posts in various different layouts. It is useful for a news site where you need to display a lot of posts in a page.
 
 The widget is responsive so you can place it in any widget area. The widget content will adapt based on the width of its container. In a narrow area like standard sidebar, posts will be displayed vertically, but in a wider area, posts will be displayed in 2 or 3 columns depends on the container's width.
 
@@ -46,7 +46,7 @@ Since version 1.1.0, Flex Posts also includes a gutenberg block. You can add the
 
 = Demo =
 
-Please visit the live demo here: [Flex Posts Demo](https://tajam.id/flex-posts-demo/)
+Please visit the live demo here: [Flex Posts Demo](https://hokkaido.a4jp.com/english-lessons-in-sapporo/)
 
 = Requirements =
 
